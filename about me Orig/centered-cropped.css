@@ -1,0 +1,11 @@
+.centered-and-cropped{
+  width:12em;
+  height: 12em;
+  border-radius: 50%;
+  position: relative;
+   object-fit: cover;
+   left: 50%;
+     -webkit-transform: translateX(-50%);
+    transform: translateX(-50%); 
+    margin-bottom: -3em;
+}
